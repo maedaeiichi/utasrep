@@ -1,10 +1,10 @@
 import * as React from "react";
 
-import PageFrame from "./PageFrame";
+import Route from "./Router";
 
 const Application = () => (
   <>
-    <PageFrame />
+    <Route />
   </>
 );
 
